@@ -1,1 +1,1 @@
-![图片显示](https://github.com/lyon-t/-python-/blob/master/Figure_1.png?raw=true)
+![图片显示](https://github.com/lyon-t/-python-/blob/master/ui.png?raw=true)
